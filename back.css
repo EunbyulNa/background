@@ -6,7 +6,7 @@
 body {
   /*vh 뷰 포트(화면크) 너비 값의 100분의 1단/***/
   height: 100vh;
-  background: url('img/city.jpg');
+  background: url('city.jpg');
   background-repeat: no-repeat;
   /*cover 이미지 화면에 맞춰서
   하지만 크기 줄일시, 잘리는 부분 생김
